@@ -1,0 +1,70 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+.pink {
+  background-color: #EE3E64;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.blue {
+  background-color: #44ACCF;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+.green {
+  background-color: #B7D84B;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.yellow {
+  background-color: #EBDE52;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.child-pink {
+  background-color: #F95B34;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 78px;
+  left: 82px;
+}
+
+.child-blue {
+  background-color: #F95B34;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 78px;
+  right: 78px;
+
+}
+
+.child-green {
+  background-color: #F95B34;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  bottom: 82px;
+  left: 82px;
+}
+
+.child-yellow {
+  background-color: #F95B34;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  bottom: 82px;
+  right: 78px;
+}

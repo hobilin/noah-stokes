@@ -1,0 +1,33 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+.pink {
+  background-color: #EE3E64;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.blue {
+  background-color: #44ACCF;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+.green {
+  background-color: #B7D84B;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.yellow {
+  background-color: #EBDE52;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

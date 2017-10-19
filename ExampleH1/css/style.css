@@ -1,0 +1,18 @@
+
+.blue {
+  background-color: rgba(56, 58, 223, 0.58);
+  position: absolute;
+  top: 0;
+  left: 250px;
+  bottom: 0;
+  right: 0;
+}
+
+.pink {
+  background-color: rgb(189, 88, 142);
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 250px;
+}

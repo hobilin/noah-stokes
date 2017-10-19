@@ -1,0 +1,19 @@
+div {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.pink {
+  background-color: #EE3E64;
+}
+
+.blue {
+  background-color: #44ACCF;
+  left: 200px
+
+}
+
+.green {
+  background-color: #B7D84B;
+}
